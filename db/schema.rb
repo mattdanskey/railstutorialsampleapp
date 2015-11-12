@@ -13,9 +13,6 @@
 
 ActiveRecord::Schema.define(version: 20151031225457) do
 
-# Could not dump table "sqlite_stat1" because of following NoMethodError
-#   undefined method `[]' for nil:NilClass
-
   create_table "users", force: :cascade do |t|
     t.string   "name"
     t.string   "email"
