@@ -1,0 +1,15 @@
+one:
+  follower: harlock
+  followed: lana
+
+two:
+  follower: harlock
+  followed: malory
+
+three:
+  follower: lana
+  followed: harlock
+
+four:
+  follower: archer
+  followed: harlock
